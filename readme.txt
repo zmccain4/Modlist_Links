@@ -16,3 +16,14 @@ Lithium - https://modrinth.com/mod/lithium/version/mc1.21.11-0.21.2-fabric
 
 Simple Voice Chat - https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.21.11-2.6.11
 
+If you have a powerful computer and want further render distances, you can use the following mods:
+
+Sodium - https://modrinth.com/mod/sodium/version/mc1.21.11-0.8.0-fabric
+
+Bobby - https://modrinth.com/mod/bobby/version/5.2.11+mc1.21.11
+
+Mod Menu - https://modrinth.com/mod/modmenu/version/17.0.0-beta.2
+
+Simple Fog Control - https://modrinth.com/mod/simplefog/version/cTaPcwQe
+
+Cloth Config - https://modrinth.com/mod/cloth-config/version/21.11.153+fabric
