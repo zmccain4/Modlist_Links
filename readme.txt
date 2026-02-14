@@ -22,6 +22,8 @@ Sodium - https://modrinth.com/mod/sodium/version/mc1.21.11-0.8.0-fabric
 
 Bobby - https://modrinth.com/mod/bobby/version/5.2.11+mc1.21.11
 
+Voxy - https://modrinth.com/mod/voxy/version/0.2.10-alpha
+
 Mod Menu - https://modrinth.com/mod/modmenu/version/17.0.0-beta.2
 
 Simple Fog Control - https://modrinth.com/mod/simplefog/version/cTaPcwQe
